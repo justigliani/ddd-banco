@@ -1,6 +1,6 @@
 package br.com.fiap.enums;
 
-public class SituacaoEnum {
+public enum SituacaoEnum {
     ATIVA,
-    INATIVA
+    INATIVA;
 }
